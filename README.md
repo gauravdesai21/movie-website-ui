@@ -40,7 +40,6 @@ Click the link above to view the deployed site on GitHub Pages.
 ## 📁 Folder Structure
 
 
-
 Netflix/
 ├── bg image.jpg
 ├── box1.jpg
@@ -66,24 +65,16 @@ Netflix/
 ├── style.css
 │
 ├── Document_files/
-│ ├── Document_Viewer.css
-│ ├── document.css
-│ ├── bootstrap.min.css
-│ ├── bootstrap.min.js.download
-│ ├── jquery-3.5.1.slim.min.js.download
-│ ├── popper.min.js.download
-│ ├── script.js.download
-│ ├── 600-60.fill_.png
-│ ├── docx.png
-│ ├── media.css
-│ └── style.css
+│   ├── Document_Viewer.css
+│   ├── document.css
+│   ├── bootstrap.min.css
+│   ├── bootstrap.min.js.download
+│   ├── jquery-3.5.1.slim.min.js.download
+│   ├── popper.min.js.download
+│   ├── script.js.download
+│   ├── 600-60.fill_.png
+│   ├── docx.png
+│   ├── media.css
+│   └── style.css
 │
 └── Document.html
-
-
-
-
-
-
-
-
