@@ -38,4 +38,41 @@ Click the link above to view the deployed site on GitHub Pages.
 ---
 
 ## 📁 Folder Structure
-
+Netflix/
+├── bg image.jpg
+├── box1.jpg
+├── box10.jpg
+├── box2.jpg
+├── box3.jpg
+├── box4.jpg
+├── box5.jpg
+├── box6.jpg
+├── box7.jpg
+├── box8.jpg
+├── box9
+├── index.html
+├── logos.png
+├── Netflix logo.png
+├── netflix-background-image-25.jpg
+├── ss1.png
+├── ss2.png
+├── ss3.png
+├── ss4.png
+├── ss5.png
+├── Untitled design.png
+├── style.css
+│
+├── Document_files/
+│ ├── Document_Viewer.css
+│ ├── document.css
+│ ├── bootstrap.min.css
+│ ├── bootstrap.min.js.download
+│ ├── jquery-3.5.1.slim.min.js.download
+│ ├── popper.min.js.download
+│ ├── script.js.download
+│ ├── 600-60.fill_.png
+│ ├── docx.png
+│ ├── media.css
+│ └── style.css
+│
+└── Document.html
